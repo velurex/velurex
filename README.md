@@ -19,10 +19,14 @@
 
 ## 🧠 Recently learned
 
-**AI & LLM systems** — agent workflows and the core ecosystem around them:  
-`RAG` `MCP` `Embeddings` `Vector DB` `Tool Calling` `Prompt Engineering` `Fine-tuning`
+Recently, my study and hobby projects have all revolved around AI, developing across three distinct dimensions:
 
-> 💡 Wiring these pieces together is the easy part. The real challenge is keeping the AI within bounds — **monitoring** its behavior, **validating** its outputs, **defining rules** and **guardrails**, and making the whole system predictable and trustworthy in production.
+1. **Implementing AI & Agent Workflows** — Integrating generative AI into real-world applications and mastering the surrounding ecosystem:  
+   `RAG` `MCP` `Embeddings` `Vector DB` `Tool Calling` `ReAct` `Prompt Engineering` `Fine-tuning`
+
+2. **Production Guardrails & Reliability** — Taming non-deterministic models and keeping AI within predictable bounds: continuous **behavior monitoring**, automated **output validation**, and strict **guardrails and rules** to ensure production-grade trustworthiness.
+
+3. **LLM Internals & Architecture** — Looking under the hood to understand the inner workings, layer structures, and low-level arithmetic of modern language models — the very insights that enabled me to design and build [quintrit](https://github.com/velurex-labs/quintrit).
 
 ---
 
